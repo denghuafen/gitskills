@@ -2,3 +2,4 @@ create a new branch
 update txt on master
 create new branch feature1
 test diff merge model
+fix bug 101
